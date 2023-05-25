@@ -16,8 +16,8 @@ Right now I am listening...</br>
 <!--About me-->
 
 <h2 align="center">
-
-  ## <center>📛 <code> Hi, I Am Miguel Angel 🖐️</code> </center>
+    📛 <code> Hi, I Am Miguel Angel 🖐️
+</h2>
 
     - Colombian developer.
 
