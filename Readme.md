@@ -6,7 +6,7 @@
 
 <h2 align="center">
   <a href="spotify.com">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=fisaajf2jcendz40ny6vsyl32&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" height="110px">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=fisaajf2jcendz40ny6vsyl32&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=defd02&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" height="150px">
   </a>
 </h2>
 
