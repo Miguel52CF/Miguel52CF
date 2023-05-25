@@ -2,13 +2,16 @@
 
 # <h1 align="center"> <code> Hello, this is Miguel</code></h1>
 
+## <p align="center"> Right now I am listening... cambio</p></br>
+
 <h2 align="center">
-Right now I am listening...</br>  
   <a href="spotify.com">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=fisaajf2jcendz40ny6vsyl32&redirect=true][ttps://spotify-github-profile.vercel.app/api/view?uid=fisaajf2jcendz40ny6vsyl32&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" height="110px">
-  </a></br>
-  Do you want listering too?
+    <img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fisaajf2jcendz40ny6vsyl32&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)"
+    height="110px">
+  </a>
 </h2>
+
+## <p align="center"> Do you want listering too?</p>
 
 ---
 
@@ -20,12 +23,12 @@ Right now I am listening...</br>
     
     - Colombian developer.
 
-    - I am currently a software engineering student and a future java fullstack dev..
+    - I am currently a software engineering student and a future java fullstack dev.
 
     - My favorite hobbies are video games and reading books :D
 
 </h2>
-
+ 
 ---
 
 <p align="center">
