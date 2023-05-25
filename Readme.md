@@ -17,14 +17,17 @@ Right now I am listening...</br>
 
 <h2 align="center">
     📛 <code> Hi, I Am Miguel Angel 🖐️
-
+    </br></br>
+    
     - Colombian developer.
 
     - I am currently a software engineering student and a future java fullstack dev..
 
-    - My favorite hobbies are video games and reading books :D.
+    - My favorite hobbies are video games and reading books :D
 
 </h2>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-angel-castro-8513b5230/">  <!--Badge manjaro-->
