@@ -1,14 +1,13 @@
 <!--Header /Titulo principal -->
 
-# <h1 align="center"> <code> What's up</code>
+# <h1 align="center"> <code> Hello, this is Miguel</code></h1>
 
-</h1> 
-<!--Actyvity spotify-->
 <h2 align="center">
 Right now I am listening...</br>  
   <a href="spotify.com">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=fisaajf2jcendz40ny6vsyl32&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=fisaajf2jcendz40ny6vsyl32&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" height="110px">
-  </a>
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=fisaajf2jcendz40ny6vsyl32&redirect=true][ttps://spotify-github-profile.vercel.app/api/view?uid=fisaajf2jcendz40ny6vsyl32&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" height="110px">
+  </a></br>
+  Do you want listering too?
 </h2>
 
 ---
@@ -16,7 +15,7 @@ Right now I am listening...</br>
 <!--About me-->
 
 <h2 align="center">
-    📛 <code> Hi, I Am Miguel Angel 🖐️
+  📛 <code> Hi, I Am Miguel Angel 🖐️ </code>
     </br></br>
     
     - Colombian developer.
