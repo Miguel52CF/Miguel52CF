@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,linux,cpp,ruby,ps,wordpress,bootstrap,swift" />
+    <img src="https://skillicons.dev/icons?i=angular,nodejs,linux,cpp,ruby,ps,wordpress,react,swift" />
   </a>
 </p>
 
