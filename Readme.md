@@ -17,11 +17,11 @@
 
 <div align="left">
 
-    ● 🏬Colombian developer.
+    ● 🏬 Colombian developer.
 
-    ● 💻Currently a software engineering student and a future java fullstack dev.
+    ● 💻 Currently a software engineering student and a future java fullstack dev.
 
-    ● 🎮My favorite hobbies are video games and reading books :D
+    ● 🎮 My favorite hobbies are video games and reading books :D
 
 </div>
 </h2>
