@@ -3,7 +3,7 @@
 # <h1 align="center"> <code> Hello, this is Miguel</code></h1>
 
 <h2 align="center">
-<p align="center"> Right now I am listening...</p>
+<p align="center"> And right now I am listening...</p>
   <a href="spotify.com">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=fisaajf2jcendz40ny6vsyl32&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=defd02&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" height="150px">
   </a>
