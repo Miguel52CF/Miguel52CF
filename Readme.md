@@ -1,6 +1,6 @@
 <!--Header /Titulo principal -->
 
-# <h1 align="center"> <code> Hello, this is Miguel</code></h1>
+# <h1 align="center"> <code> Hello, i'm Miguel and this is my GitHub</code></h1>
 
 <h2 align="center">
 <p align="center"> And right now I am listening...</p>
@@ -19,7 +19,7 @@
 
     ● 🏬 Colombian developer.
 
-    ● 💻 Currently a java fullstack dev and a software engineering student and.
+    ● 💻 Currently a java fullstack dev and a software engineering student.
 
     ● 🎮 My favorite hobbies are video games and reading books :D
 
