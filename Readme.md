@@ -19,7 +19,7 @@
 
     ● 🏬 Colombian developer.
 
-    ● 💻 Currently a software engineering student and a future java fullstack dev.
+    ● 💻 Currently a java fullstack dev and a software engineering student and.
 
     ● 🎮 My favorite hobbies are video games and reading books :D
 
@@ -51,12 +51,12 @@
 
 <!--Want to learn-->
 <h2 align="center">
-    <code> Languages ​​I want to learn </code>
+    <code> My technologies </code>
 </h2></br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,react,linux,cpp,ruby,ps,wordpress,swift" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,php,mysql,vscode" />
   </a>
 </p>
 
@@ -66,11 +66,11 @@
     <code> My activity in Github </code>
 </h2></br>
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel52CF&hide_progress=true&theme=merko)](https://github.com/Miguel52CF) | ![Stats](https://github-readme-stats.vercel.app/api?username=Miguel52CF&show_icons=true&theme=merko&hide_border=true&height=200) |
+![Stats](https://github-readme-stats.vercel.app/api?username=Miguel52CF&show_icons=true&theme=merko&hide_border=true&height=200) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel52CF&hide_progress=true&theme=merko)](https://github.com/Miguel52CF) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel52CF&theme=merko)](https://github.com/Miguel52CF/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel52CF&theme=merko)
 
 <!--credits-->
 
-#### > Made with <code>[Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code>, <code>[Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph)</code>,<code>[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)</code>,<code>[Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>,<code>[Skill Icons](https://github.com/tandpfun/skill-icons)</code> ☃️
+#### > Made with <code>[Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code>, <code>[Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph)</code>,<code>[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)</code>,<code>[Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>,<code>[Skill Icons](https://github.com/tandpfun/skill-icons)</code>
