@@ -37,7 +37,7 @@
 </p>
 
 <h2 align="center">
-<code> ⬇️ And you can find me here ⬇️</code>
+<code> ⬇️ You can find me here ⬇️</code>
 </br></br>
 
 <p align="center">
@@ -57,7 +57,7 @@
 </p>
 
 <h2 align="center">
-    <code> My activity in Github </code>
+    <code> My activity in Github Is:</code>
 </h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel52CF&theme=merko) | ![Stats](https://github-readme-stats.vercel.app/api?username=Miguel52CF&show_icons=true&theme=merko&hide_border=true&height=200)|
@@ -66,4 +66,4 @@
 
 <!--credits-->
 
-#### > Made with <code>[Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code>,<code>[Skill Icons](https://github.com/tandpfun/skill-icons)</code>,[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)</code>,[Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph)</code>,<code>[Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>
+#### > Made with [Spotify Profile](https://github.com/kittinan/spotify-github-profile),[Skill Icons](https://github.com/tandpfun/skill-icons),[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk),[Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph),[Readme Stats](https://github.com/anuraghazra/github-readme-stats)
