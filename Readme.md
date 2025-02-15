@@ -98,8 +98,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel52CF&layout=compact&langs_count=15&theme=merko" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel52CF&show_icons=true&theme=merko&hide_border=true&height=200" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel52CF&layout=compact&langs_count=15&theme=merko&height=300" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel52CF&show_icons=true&theme=merko&height=300" width="400px" />
 </p>
 
 ---
