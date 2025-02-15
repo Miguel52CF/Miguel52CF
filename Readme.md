@@ -1,6 +1,6 @@
 <!-- Header / Titulo principal -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Hello,+I'm+Miguel!;Welcome+to+my+GitHub!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Hello,+I'm+Miguel!;Welcome+to+my+GitHub!"/>
 </h1>
 <p align="center">
   <img src="https://i.postimg.cc/Vsg3bvWF/test.jpg" alt="Ghost Cat" width="200px"/>
