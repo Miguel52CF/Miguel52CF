@@ -36,14 +36,14 @@
 ### 🔹 Main Technologies (Most Used)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,php,js,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,php,js,bootstrap,git" />
   </a>
 </p>
 
 ### 🔸 Other Technologies (Basic Knowledge)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,ts,cpp,react,nodejs,git,linux" />
+    <img src="https://skillicons.dev/icons?i=jquery,ts,linux,docker,nodejs,cpp" />
   </a>
 </p>
 
@@ -52,21 +52,21 @@
 #### 🔹 Short Term
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,nextjs,tailwind,kali" />
+    <img src="https://skillicons.dev/icons?i=angular,laravel,nginx,mongodb,tailwind,kali" />
   </a>
 </p>
 
 #### 🔸 Medium Term
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nestjs,dotnet,aws,cs,laravel" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,dotnet,aws,cs,figma" />
   </a>
 </p>
 
 #### 🔻 Long Term
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,vim,wordpress" />
+    <img src="https://skillicons.dev/icons?i=rust,androidstudio,flutter,vim,wordpress" />
   </a>
 </p>
 
